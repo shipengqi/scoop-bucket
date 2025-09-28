@@ -1,12 +1,12 @@
 {
-    "version": "2.3.4",
+    "version": "2.3.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/shipengqi/commitizen/releases/download/v2.3.4/commitizen-v2.3.4-windows-amd64.zip",
+            "url": "https://github.com/shipengqi/commitizen/releases/download/v2.3.5/commitizen-v2.3.5-windows-amd64.zip",
             "bin": [
                 "commitizen.exe"
             ],
-            "hash": "03d610e71d4c3e3f25c35584b3721bdf40cdd78b9324f0ee820fb9f539d6db2b"
+            "hash": "11ec3928daa9c47602f28f241b63ae57c9ae1697d63fe406fe9abe1689dacd93"
         }
     },
     "homepage": "https://github.com/shipengqi/commitizen",
